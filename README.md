@@ -72,3 +72,26 @@ npm start
 # Démarrer le backend
 cd backend
 node server.js
+
+💾 Base de données
+
+Scripts SQL :
+
+create_db.sql : création de la base artisansdb
+
+insert_data.sql : insertion des artisans de test
+
+🧰 Liens utiles
+
+🎨 Maquette Figma : Lien ici
+
+💻 GitHub : https://github.com/Tano9592/trouve-ton-artisan
+
+🌐 Site web (à venir) : à compléter après déploiement
+
+👨‍💻 Auteur
+
+Ethanael Pertays
+Formation : Développeur Full Stack
+Projet : Trouve ton Artisan – Région Auvergne-Rhône-Alpes
+Date : Octobre 2025
